@@ -15,7 +15,7 @@ A modern, responsive website for the GitHub User Group Kaduna workshop. This sit
 - **Date**: September 20-21, 2025
 - **Time**: 9:00 AM - 5:00 PM WAT
 - **Location**: Tech Hub Kaduna, Constitution Road, Kaduna, Nigeria
-- **Capacity**: 50 participants
+- **Capacity**: 20 participants
 - **Cost**: Free
 
 ## What's Covered
