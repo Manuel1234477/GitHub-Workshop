@@ -12,21 +12,23 @@ A modern, responsive website for the GitHub User Group Kaduna workshop. This sit
 
 ## Workshop Details
 
-- **Date**: September 20-21, 2025
-- **Time**: 9:00 AM - 5:00 PM WAT
-- **Location**: Tech Hub Kaduna, Constitution Road, Kaduna, Nigeria
+- **Date**: September 6,2025
+- **Time**: 9:00 AM - 1:00 PM WAT
+- **Location**: The buidl, barnawa Kaduna, Nigeria
 - **Capacity**: 50 participants
 - **Cost**: Free
 
 ## What's Covered
 
 ### Day 1: Git Fundamentals & GitHub Basics
+
 - Introduction to Version Control
 - Git Commands Workshop
 - GitHub Features Deep Dive
 - Collaborative Development
 
 ### Day 2: Advanced GitHub & Open Source
+
 - GitHub Actions & CI/CD
 - Open Source Contribution
 - Project Showcase & Hands-on
