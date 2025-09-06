@@ -17,7 +17,7 @@ A modern, responsive website for the GitHub User Group Kaduna workshop. This sit
 - **Location**: Tech Hub Kaduna, Constitution Road, Kaduna, Nigeria
 - **Capacity**: 60 participants
 - **Cost**: Free
-- **Facilitator** : Lucky Joseph
+- **Facilitator** : Lucky Joseph / G
 
 ## What's Covered
 
